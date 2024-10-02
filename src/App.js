@@ -29,7 +29,7 @@ const App = () => {
           placeholder="Password"
         />
 
-        <button className="bg-[#02B94BD6] text-[#FFFFFFE5] text-2xl py-3 px-3 font-semibold uppercase flex-grow rounded-lg w-1/2 hover:bg-[#02B94B] duration-300">
+        <button className="bg-[#02B94BD6] text-[#FFFFFFE5] text-2xl py-3 px-3 font-semibold uppercase flex-grow rounded-lg w-1/2 hover:bg-[#02B94B] duration-300 mt-3">
           Login
         </button>
         <div className="flex items-center mt-4">
